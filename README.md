@@ -1,20 +1,38 @@
 # Nested Tags And Attributes Video
 
-## Objectives
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Stm2XCmEs3U?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=Stm2XCmEs3U">Nested Tags</a></p>
 
-1. Objective 1
-2. Objective 2.
+### Nested Tags and HTML Attributes
 
-## Instructions
+Tags can be nested as demonstrated in the navigation snippet below.
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Icebreakers</title>
+  </head>
+  <body>
+    <header>
+      <nav id="main-navigation">
+        <ul>
+          <li><a href="/questions/new">New Question</a></li>
+          <li><a href="/about">About</a></li>
+        </ul>
+      </nav>
+    </header>
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
+    <img src="icebreaker.jpg" class="cool-pic">
+  </body>
+</html>
+```
 
-### Part 1: Do Some Stuff
+Keeping your HTML well indented so that every tag and "level" of nesting is aligned will make your code easier to read and maintain. Its aesthetics, how it looks, is conveying its structure.
 
 ## Resources
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
-
-<a href='https://learn.co/lessons/nested-tags-and-attributes-video' data-visibility='hidden'>View this lesson on Learn.co</a>
+* [Nested Tags](http://www.bu.edu/tech/services/cccs/websites/www/non-wordpress/start/html-introduction/syntax/nesting-tags/)
+* [More on Nested Tags](https://www.thoughtco.com/nesting-html-tags-3466475)
+* [More on Nesting...](http://www.iraqtimeline.com/maxdesign/basicdesign/principles/prinnest.html)
+* [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
+* [More on Attributes](https://www.tutorialspoint.com/html/html_attributes.htm)
