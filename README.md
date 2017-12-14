@@ -8,19 +8,20 @@ Tags can be nested as demonstrated in the navigation snippet below.
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Icebreakers</title>
+    <title>Web development course</title>
   </head>
   <body>
     <header>
       <nav id="main-navigation">
+      <!-- nav element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav -->
         <ul>
-          <li><a href="/questions/new">New Question</a></li>
-          <li><a href="/about">About</a></li>
+        <!-- ul element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul -->
+          <li><a href="/web">Introduction to the web</a></li>
+          <!-- li element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li -->
+          <li><a href="/html">Learn HTML</a></li>
         </ul>
       </nav>
     </header>
-
-    <img src="icebreaker.jpg" class="cool-pic">
   </body>
 </html>
 ```
