@@ -22,6 +22,7 @@ Tags can be nested as demonstrated in the navigation snippet below.
           
           <li><a href="/web">Introduction to the web</a></li>
           <!-- li element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li -->
+          
           <li><a href="/html">Learn HTML</a></li>
         </ul>
       </nav>
