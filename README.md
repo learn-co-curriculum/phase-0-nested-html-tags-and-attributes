@@ -12,10 +12,14 @@ Tags can be nested as demonstrated in the navigation snippet below.
   </head>
   <body>
     <header>
+    <!-- header element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header -->
+      
       <nav id="main-navigation">
       <!-- nav element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav -->
+        
         <ul>
         <!-- ul element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul -->
+          
           <li><a href="/web">Introduction to the web</a></li>
           <!-- li element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li -->
           <li><a href="/html">Learn HTML</a></li>
