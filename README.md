@@ -13,16 +13,16 @@ Tags can be nested as demonstrated in the navigation snippet below.
   <body>
     <header>
     <!-- header element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header -->
-      
+
       <nav id="main-navigation">
       <!-- nav element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav -->
-        
+
         <ul>
         <!-- ul element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul -->
-          
+
           <li><a href="/web">Introduction to the web</a></li>
           <!-- li element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li -->
-          
+
           <li><a href="/html">Learn HTML</a></li>
         </ul>
       </nav>
@@ -31,18 +31,24 @@ Tags can be nested as demonstrated in the navigation snippet below.
 </html>
 ```
 
-Keeping your HTML well indented so that every tag and "level" of nesting is aligned will make your code easier to read and maintain. Its aesthetics, how it looks, is conveying its structure.
+Keeping your HTML well indented so that every tag and "level" of nesting is
+aligned will make your code easier to read and maintain. Its aesthetics, how it
+looks, is conveying its structure.
 
 ### HTML Attributes
-HTML attributes represent metadata about the containing element.  The attributes can be used to identity, classify, style or modify the default behavior of the element.
 
-HTML attributes are key, value pairs combinations added to the element's opening tag.
+HTML attributes represent metadata about the containing element.  The
+attributes can be used to identity, classify, style or modify the default
+behavior of the element.
 
 ```html
 	<element attribute_name=attribute_value another_attribute_name=another_attribute_value></element>
 ```
 
-A very common use case for HTML attributes is element identification (`id` attribute) and/or classification (`class` attribute). The `id` attribute is used to uniquely identify an element within the whole document. The `class` attribute is used to group together similar elements. 
+A very common use case for HTML attributes is element identification (`id`
+attribute) and/or classification (`class` attribute). The `id` attribute is
+used to uniquely identify an element within the whole document. The `class`
+attribute is used to group together similar elements.
 
 Both `<id>` and `<class>` attributes are often used for styling purposes since they allows us to find a specific element or style similar elements with a single style declaration.
 
