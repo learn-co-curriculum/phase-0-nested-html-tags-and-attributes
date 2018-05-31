@@ -1,10 +1,12 @@
 # Nested HTML Tags And Attributes
 
+## Problem Statement
+
 When you take a look at an entire HTML document, it's sometimes challenging to
 keep track of where tags begin and end. But understanding more about HTML tag
 nesting and attributes can help everything fall into place.
 
-## Students will be able to ...
+## Objectives
 
 1. Assess HTML document structure
 2. Identify nested HTML tags
