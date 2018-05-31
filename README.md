@@ -12,7 +12,7 @@ nesting and attributes can help everything fall into place.
 2. Identify nested HTML tags
 3. Recognize HTML tag attributes and their purposes
 
-## Nested Tags
+### Nested Tags
 
 Whenever we nest an HTML tag inside of another tag, we indent the inner tag so
 that the overall tag hierarchy is clear. Take a look at the following example of
