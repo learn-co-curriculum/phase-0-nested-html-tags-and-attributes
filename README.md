@@ -1,18 +1,17 @@
 # Nested HTML Tags And Attributes
 
-## Problem Statement
+## Learning Goals
+
+- Assess HTML document structure
+- Identify HTML tag attributes and their purposes
+
+## Introduction
 
 When you take a look at an entire HTML document, it's sometimes challenging to
 keep track of where tags begin and end. But understanding more about HTML tag
 nesting and attributes can help everything fall into place.
 
-## Objectives
-
-1. Assess HTML document structure
-2. Identify nested HTML tags
-3. Recognize HTML tag attributes and their purposes
-
-### Nested Tags
+## Assess HTML Document Structure
 
 Whenever we nest an HTML tag inside of another tag, we indent the inner tag so
 that the overall tag hierarchy is clear. Take a look at the following example of
@@ -48,7 +47,7 @@ a well-structured HTML document.
 Keeping your HTML well indented so that every tag and "level" of nesting is
 aligned will make your code easier to read and maintain.
 
-### HTML Attributes
+## Identify HTML Tag Attributes and Their Purposes
 
 An HTML attribute is extra information we can add to a tag to identify,
 classify, style or modify the default behavior of the element the tag contains.
