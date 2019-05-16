@@ -89,9 +89,9 @@ you'll learn their attributes.
 ## Resources
 
 * [Nested Tags](http://www.bu.edu/tech/services/cccs/websites/www/non-wordpress/start/html-introduction/syntax/nesting-tags/)
-* [Tags](https://www.thoughtco.com/nesting-html-tags-3466475) More on Nesting...
+* [Tags](https://www.thoughtco.com/nesting-html-tags-3466475)
 * [Best Practices Web Design](http://www.iraqtimeline.com/maxdesign/basicdesign/principles/prinnest.html)
-* [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp) More on
+* [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
 * [Attributes](https://www.tutorialspoint.com/html/html_attributes.htm)
 
 ## Conclusion
