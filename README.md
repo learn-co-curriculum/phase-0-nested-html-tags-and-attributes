@@ -67,8 +67,8 @@ single style declaration.
 ```html
   <p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
   
-  <p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
-  <p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
+  
+  
 ```
 
 Attributes that identify or classify are not necessary for the HTML
