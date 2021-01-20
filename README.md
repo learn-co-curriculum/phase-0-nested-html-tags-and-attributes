@@ -72,7 +72,7 @@ single style declaration.
 ```
 
 Attributes that identify or classify are not necessary for the HTML
-tag to work as intended, but other attributes *are*—for example, an `a` tag,
+tag to work as intended, but other attributes *are* &mdash; for example, an `a` tag,
 which links a piece of text to another location on our own web page or another
 web page.
 
@@ -86,6 +86,13 @@ won't be able to send more people to the Flatiron School website. Certain
 attributes go hand in hand with certain HTML tags, and as you learn the tags,
 you'll learn their attributes.
 
+## Conclusion
+
+We use nesting to keep the elements of our HTML document organized, and we use
+attributes to give our elements more power. With these strategies, we can
+construct a solid HTML structure that serves as a foundation for anything else
+we want to build.
+
 ## Resources
 
 * [Nested Tags](http://www.bu.edu/tech/services/cccs/websites/www/non-wordpress/start/html-introduction/syntax/nesting-tags/)
@@ -93,10 +100,3 @@ you'll learn their attributes.
 * [Best Practices Web Design](http://www.iraqtimeline.com/maxdesign/basicdesign/principles/prinnest.html)
 * [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
 * [Attributes](https://www.tutorialspoint.com/html/html_attributes.htm)
-
-## Conclusion
-
-We use nesting to keep the elements of our HTML document organized, and we use
-attributes to give our elements more power. With these strategies, we can
-construct a solid HTML structure that serves as a foundation for anything else
-we want to build.
