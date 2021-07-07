@@ -53,7 +53,7 @@ An HTML attribute is extra information we can add to a tag to identify,
 classify, style or modify the default behavior of the element the tag contains.
 
 ```html
-  <element attribute_name=attribute_value another_attribute_name=another_attribute_value></element>
+<element attribute_name=attribute_value another_attribute_name=another_attribute_value></element>
 ```
 A common use case for HTML attributes is element identification (`id`
 attribute) and/or classification (`class` attribute). The `id` attribute is used
@@ -65,10 +65,10 @@ they allow us to find a specific element or style similar elements with a
 single style declaration.
 
 ```html
-  <p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
+<p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
   
-  <p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
-  <p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
+<p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
+<p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 ```
 
 Attributes that identify or classify are not necessary for the HTML
@@ -77,7 +77,7 @@ which links a piece of text to another location on our own web page or another
 web page.
 
 ```html
-  <a href="https://flatironschool.com/">Flatiron School</a>
+<a href="https://flatironschool.com/">Flatiron School</a>
 ```
 
 Here we use the `href` attribute to tell the HTML tag where the destination of
