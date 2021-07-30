@@ -72,7 +72,7 @@ single style declaration.
 ```
 
 Attributes that identify or classify are not necessary for the HTML
-tag to work as intended, but other attributes *are* &mdash; for example, an `a` tag,
+tag to work as intended, but other attributes *are* — for example, an `a` tag,
 which links a piece of text to another location on our own web page or another
 web page.
 
