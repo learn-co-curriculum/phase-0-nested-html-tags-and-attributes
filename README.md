@@ -53,8 +53,9 @@ An HTML attribute is extra information we can add to a tag to identify,
 classify, style or modify the default behavior of the element the tag contains.
 
 ```html
-<element attribute_name=attribute_value another_attribute_name=another_attribute_value></element>
+<element attribute_name="attribute_value" another_attribute_name="another_attribute_value"></element>
 ```
+
 A common use case for HTML attributes is element identification (`id`
 attribute) and/or classification (`class` attribute). The `id` attribute is used
 to uniquely identify an element within the whole document. The `class` attribute
@@ -95,7 +96,7 @@ we want to build.
 
 ## Resources
 
-* [Nested Tags](https://www.thoughtco.com/nesting-html-tags-3466475)
-* [Best Practices Web Design](http://www.iraqtimeline.com/maxdesign/basicdesign/principles/prinnest.html)
-* [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
-* [Attributes](https://www.tutorialspoint.com/html/html_attributes.htm)
+- [Nested Tags](https://www.thoughtco.com/nesting-html-tags-3466475)
+- [Best Practices Web Design](http://www.iraqtimeline.com/maxdesign/basicdesign/principles/prinnest.html)
+- [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
+- [Attributes](https://www.tutorialspoint.com/html/html_attributes.htm)
